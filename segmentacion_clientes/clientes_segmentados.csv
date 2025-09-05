@@ -1,1 +1,40 @@
-
+id_cliente,nombre_cliente,frecuencia,recencia,moneda,segmentacion
+1,Martín García,51,14,75601.78,Cliente de alto Valor
+2,Mario Ramírez,20,30,29227.21,Cliente potencial
+3,Pablo Gutiérrez,20,0,22662.85,Cliente potencial
+4,Daniel Sánchez,19,58,31613.28,Otro
+5,Mario Sánchez,35,23,46433.43,Cliente frecuente
+6,Marcos Ramírez,27,9,89965.23,Cliente de alto Valor
+7,Carmen Moreno,22,21,27042.83,Cliente potencial
+8,Lucía Díaz,27,17,39779.28,Cliente frecuente
+9,Daniel Díaz,23,14,26510.84,Cliente potencial
+10,Julia Vázquez,18,18,115195.10,Cliente potencial
+11,Paula González,25,13,43771.50,Cliente frecuente
+12,Mario Díaz,22,20,40207.28,Cliente frecuente
+13,David Sánchez,25,15,36174.94,Cliente frecuente
+14,Sofía Álvarez,23,11,28562.44,Cliente potencial
+15,Julia Fernández,30,1,135322.96,Cliente de alto Valor
+17,Mario Torres,26,13,46604.58,Cliente frecuente
+18,Lucía Moreno,22,3,41274.79,Cliente frecuente
+19,Andrea Álvarez,25,7,32528.09,Cliente frecuente
+20,Paula Alonso,34,6,53481.62,Cliente de alto Valor
+21,Álvaro Muñoz,14,5,17239.59,Otro
+22,Sofía Torres,27,17,38482.16,Cliente frecuente
+23,Pablo Díaz,23,15,30063.50,Cliente frecuente
+24,Emma Navarro,17,2,27488.37,Cliente potencial
+25,Emma Sánchez,22,13,28561.34,Cliente potencial
+26,Paula Ramírez,27,0,30366.62,Cliente frecuente
+27,Marina Vázquez,27,23,76314.99,Cliente de alto Valor
+28,Laura González,30,1,46695.59,Cliente frecuente
+29,Lucía López,23,15,37510.33,Cliente frecuente
+30,SofIa Alvarez,23,0,42570.63,Cliente frecuente
+31,Andrea Ramírez,30,5,31949.89,Cliente frecuente
+32,Mario Martínez,28,13,30322.90,Cliente frecuente
+33,Pablo López,21,0,294930.72,Cliente de alto Valor
+34,Martín Martínez,22,16,160016.94,Cliente de alto Valor
+35,Sofía Gutiérrez,29,21,52627.44,Cliente de alto Valor
+36,Pablo Gil,28,5,816934.21,Cliente de alto Valor
+37,Daniel Ramírez,34,14,366428.70,Cliente Leal
+38,Paula González,25,22,753352.70,Cliente de alto Valor
+39,Sofía Domínguez,21,45,23095.06,Otro
+40,Laura Álvarez,5,105,1886.66, Cliente con riesgo a abandonar
