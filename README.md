@@ -40,12 +40,12 @@ y personalización de la oferta.
 
 ---
 ## Estructura del repositorio
-- `consultas_sql/`: Archivo con las consultas SQL utilizadas para el análisis de ventas e insights.
-- `Base_datos/`: Archivo de Excel con base de datos
--`Segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM 
--`Dashboard/`: Captura del panel en power bi 
--`Requerimientos/`: Docuento funcional del proyecto
--`Conclusiones/`: Informe final del análisis
+
+- `Base_datos/`: Archivo de Excel con base de datos.
+-`Segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM.
+-`Dashboard/`: Captura del panel en power bi. 
+-`Requerimientos/`: Docuento funcional del proyecto.
+-`Conclusiones/`: Informe final del análisis.
 ---
 ##  Paneles de Control
 
