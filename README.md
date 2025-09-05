@@ -40,10 +40,10 @@ y personalización de la oferta.
 ---
 ## Estructura del repositorio
 - `base_datos/`: Archivo de Excel con base de datos.
--`segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM.
--`dashboard/`: Captura del panel en Power Bi. 
--`requerimientos/`: Docuento funcional del proyecto.
--`conclusiones/`: Informe final del análisis.
+- `segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM.
+- `dashboard/`: Captura del panel en Power Bi. 
+- `requerimientos/`: Docuento funcional del proyecto.
+- `conclusiones/`: Informe final del análisis.
 ---
 ##  Paneles de Control
 
