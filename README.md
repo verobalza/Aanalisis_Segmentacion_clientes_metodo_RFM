@@ -37,15 +37,13 @@ y personalización de la oferta.
 - SQL
 - Documentación técnica en Word y PDF
 
-
 ---
 ## Estructura del repositorio
-
-- `Base_datos/`: Archivo de Excel con base de datos.
--`Segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM.
--`Dashboard/`: Captura del panel en power bi. 
--`Requerimientos/`: Docuento funcional del proyecto.
--`Conclusiones/`: Informe final del análisis.
+- `base_datos/`: Archivo de Excel con base de datos.
+-`segmentacion_clientes/`: Archivo de csv con la clasificación de los clientes por medio de RFM.
+-`dashboard/`: Captura del panel en Power Bi. 
+-`requerimientos/`: Docuento funcional del proyecto.
+-`conclusiones/`: Informe final del análisis.
 ---
 ##  Paneles de Control
 
