@@ -57,7 +57,14 @@ Este proyecto incluye un dashboard desarrollado en Power BI que permite:
 > Nota: El archivo original del panel en Power BI (.pbix) no se incluye por limitaciones de tamaño en GitHub. Puede solicitarse directamente si se desea revisar.
 
 ---
-
+Documentacion Adicional
+- [base_datos](datos_tienda_lacasadelunicornio.xlsx)
+- [requerimientos](Requerimientos.pdf)
+- [metodo_rfm](RFM.py)
+- [segmentacion_clientes](clientes_segmentados.csv)
+- [dashboard_segmentacion](dashboard_segmentacion.png)
+- [conclusion](Conclusiones.pdf)
+---
 ##  Autora
 
 **Verónica Balza Herrera**  
